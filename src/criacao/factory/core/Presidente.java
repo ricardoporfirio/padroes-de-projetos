@@ -1,6 +1,6 @@
-package comportamental.factory.core;
+package criacao.factory.core;
 
-import comportamental.factory.interfaces.Pessoa;
+import criacao.factory.interfaces.Pessoa;
 
 public class Presidente implements Pessoa {
     
